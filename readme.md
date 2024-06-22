@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabal Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-verma&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-verma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poxycodes&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-verma" /> </p>
 
 - 🌱 I’m currently learning **Next Js**
 
